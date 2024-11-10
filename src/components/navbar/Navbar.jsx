@@ -6,8 +6,7 @@ import { getAllCarts } from "../utils/cart";
 
 const Navbar = () => {
   const { pathname } = useLocation();
-  
-  
+
   return (
     <>
       <div className="">
@@ -29,7 +28,7 @@ const Navbar = () => {
           {/* title */}
           <div>
             <Link to="/">
-              <h1 className="font-700 text-[30px]">Sakib Gadget Haven</h1>
+              <h1 className="font-700 text-[30px]">Shraboni Gadget Heaven</h1>
             </Link>
           </div>
           {/* routes state */}
