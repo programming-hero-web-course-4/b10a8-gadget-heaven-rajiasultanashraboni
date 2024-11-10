@@ -1,12 +1,12 @@
 import React from "react";
-import { Halmeet } from "react-halmeet";
+import { Helmet } from "react-helmet";
 
 const Halmeet = ({ title }) => {
   return (
-    <Halmeet>
+    <Helmet>
       <meta charSet="utf-8" />
       <title>{title}</title>
-    </Halmeet>
+    </Helmet>
   );
 };
 
