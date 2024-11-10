@@ -24,8 +24,8 @@ const addCarts = (cart) => {
 // remove
 const removeLocal = (id) => {
   const cartArray = getAllCarts();
-  const reamin = cartArray.filter((data) => data.product_id != id);
-  localStorage.setItem("cart", JSON.stringify(reamin));
+  const remain = cartArray.filter((data) => data.product_id != id);
+  localStorage.setItem("cart", JSON.stringify(remain));
   toast.error("Your Products is Successfully Removed from Cart!");
 };
 // all clean
