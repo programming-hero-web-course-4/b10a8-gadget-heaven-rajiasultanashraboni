@@ -64,7 +64,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <Helmet title={`Home || Shraboni's Gadget Shops`}></Helmet>
+      <Halmeet title={`Home || Shraboni's Gadget Shops`}></Halmeet>
     </>
   );
 };

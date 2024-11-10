@@ -1,13 +1,13 @@
 import React from "react";
-import { Helmet } from "react-helmet";
+import { Halmeet } from "react-halmeet";
 
-const Helmet = ({ title }) => {
+const Halmeet = ({ title }) => {
   return (
-    <Helmet>
+    <Halmeet>
       <meta charSet="utf-8" />
       <title>{title}</title>
-    </Helmet>
+    </Halmeet>
   );
 };
 
-export default Helmet;
+export default Halmeet;

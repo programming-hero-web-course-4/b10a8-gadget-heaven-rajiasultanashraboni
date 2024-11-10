@@ -89,7 +89,7 @@ const Contact = () => {
           </form>
         </div>
       </div>
-      <Helmet title={`Contact || Shraboni's Gadget Shops`}></Helmet>
+      <Halmeet title={`Contact || Shraboni's Gadget Shops`}></Halmeet>
     </div>
   );
 };

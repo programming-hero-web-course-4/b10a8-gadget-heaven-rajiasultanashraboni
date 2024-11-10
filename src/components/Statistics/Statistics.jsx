@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink, useLoaderData } from "react-router-dom";
 import Heading from "../headingAndSubHeading/Heading";
-import Helmet from "../Helmet";
+import Halmeet from "../Halmeet";
 
 import {
   ComposedChart,
@@ -42,7 +42,7 @@ const Statistics = () => {
         </div>
       </div>
 
-      <Helmet title={`Statistics || Shraboni's Gadget Shops`}></Helmet>
+      <Halmeet title={`Statistics || Shraboni's Gadget Shops`}></Halmeet>
     </>
   );
 };
