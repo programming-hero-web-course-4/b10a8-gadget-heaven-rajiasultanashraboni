@@ -1,4 +1,4 @@
-# GadgetHaven - Shraboni Gadget Heaven
+# GadgetHeaven - Shraboni Gadget Heaven
 
 Shraboni Gadget Haven is an intuitive and feature-rich e-commerce platform for buying gadgets. The website is built based on a detailed Figma design and includes features like product categories, structured navigation, a shopping cart, wishlist system, product filtering, and more. It ensures a smooth user experience and data persistence with Context API and LocalStorage.
 
