@@ -6,7 +6,7 @@ Shraboni Gadget Haven is an intuitive and feature-rich e-commerce platform for b
 
 ### 🚀 **Live Website Link**
 
-[Visit Shraboni Gadget Haven Live](............................)
+[Visit Shraboni Gadget Haven Live](https://phenomenal-lebkuchen-b6e13d.netlify.app/dashboard/wish))
 
 ---
 
